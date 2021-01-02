@@ -81,13 +81,10 @@ body{
     .container{
         width: 200px;
         min-width: 300px;
-        height: 500px;
-    }
-    .status{
-        padding-top: 50px;
-    
+        height: 400px;
     }
     .attribution{
         padding: 10px;
+        color: #181818
     }
 }
